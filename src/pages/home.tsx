@@ -10,7 +10,7 @@ export default function Home() {
         <div className="h-[100dvh] relative z-10 center flex-col gap-10 text-center layout">
           <div className="center gap-2">
             <a
-              href="https://github.com/learnwithjacksun/my-react-template"
+              href="https://github.com/efeurhobobullish/my-react-template"
               target="_blank"
               rel="noopener noreferrer"
               className="border border-line rounded-full bg-secondary/70 px-4 py-2 center gap-20 inline-flex "
